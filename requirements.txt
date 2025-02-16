@@ -5,3 +5,4 @@ numpy
 statsmodels
 python-dotenv
 openpyxl
+gunicorn
